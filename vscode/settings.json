@@ -17,67 +17,67 @@
             {
                 "scope": "storage.type",
                 "settings": {
-                    "foreground": "#d27dfc",
+                    "foreground": "#f799ffde",
                 }
             },
             {
                 "scope": "keyword.control.directive",
                 "settings": {
-                    "foreground": "#d27dfc",
+                    "foreground": "#f799ffde",
                 }
             },
             {
                 "scope": "keyword.control",
                 "settings": {
-                    "foreground": "#d27dfc",
+                    "foreground": "#f799ffde",
                 }
             },
             {
                 "scope": "storage.modifier.specifier.const",
                 "settings":{
-                    "foreground": "#d27dfc",
+                    "foreground": "#f799ffde",
                 }
             },
             {
                 "scope": "keyword.operator.new",
                 "settings": {
-                    "foreground": "#d27dfc",
+                    "foreground": "#f799ffde",
                 }
             },
             {
                 "scope": "keyword.operator.delete",
                 "settings": {
-                    "foreground": "#d27dfc",
+                    "foreground": "#f799ffde",
                 }
             },
             {
                 "scope": "keyword.other.operator",
                 "settings": {
-                    "foreground": "#d27dfc",
+                    "foreground": "#f799ffde",
                 }
             },
             {
                 "scope": "keyword",
                 "settings": {
-                    "foreground": "#d27dfc",
+                    "foreground": "#f799ffde",
                 }
             },
             {
                 "scope": "variable.language.this",
                 "settings": {
-                    "foreground": "#d27dfc",
+                    "foreground": "#f799ffde",
                 }
             },
             {
                 "scope": "entity.name.function.preprocessor",
                 "settings": {
-                    "foreground": "#d27dfc",
+                    "foreground": "#f799ffde",
                 }
             },
             {
                 "scope": "string",
                 "settings":{
-                    "foreground": "#9FFF98",
+                    "foreground": "#9fff98db",
                 }
             },
             {
