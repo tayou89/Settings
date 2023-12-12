@@ -105,6 +105,12 @@
                 }
             },
             {
+                "scope": "meta.function.definition.parameters.special.member.destructor",
+                "settings": {
+                    "foreground": "#f799ffde",
+                }
+            },
+            {
                 "scope": "constant.language",
                 "settings": {
                     "foreground": "#f89a27da",
