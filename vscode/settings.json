@@ -45,6 +45,12 @@
                 }
             },
             {
+                "scope": "storage.modifier.virtual",
+                "settings":{
+                    "foreground": "#f799ffde",
+                }
+            },
+            {
                 "scope": "keyword.operator.new",
                 "settings": {
                     "foreground": "#f799ffde",
