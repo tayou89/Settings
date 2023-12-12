@@ -57,6 +57,12 @@
                 }
             },
             {
+                "scope": "keyword.operator.sizeof",
+                "settings": {
+                    "foreground": "#f799ffde",
+                }
+            },
+            {
                 "scope": "keyword.other.operator",
                 "settings": {
                     "foreground": "#f799ffde",
