@@ -140,6 +140,12 @@
                     "foreground": "#b4b3b3",
                 }
             },
+            {
+                "scope": "keyword.operator",
+                "settings": {
+                    "foreground": "#b4b3b3",
+                }
+            },
 
 
 
