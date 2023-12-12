@@ -6,6 +6,9 @@
         "editorLineNumber.foreground": "#ffffff99",
         "editorLineNumber.activeForeground": "#ffffff99",
         "sideBar.background": "#000000",
+        "statusBar.background": "#000000",
+        "statusBarItem.remoteBackground": "#000000",
+        "activityBar.background": "#000000",
     }
     "editor.tokenColorCustomizations": 
     {
@@ -43,6 +46,12 @@
             },
             {
                 "scope": "keyword.operator.delete",
+                "settings": {
+                    "foreground": "#d27dfc",
+                }
+            },
+            {
+                "scope": "keyword.other.operator",
                 "settings": {
                     "foreground": "#d27dfc",
                 }
@@ -86,6 +95,12 @@
             {
                 "scope": "entity.name.type",
                 "settings":{
+                    "foreground": "#b4b3b3",
+                }
+            },
+            {
+                "scope": "entity.name.scope-resolution",
+                "settings": {
                     "foreground": "#b4b3b3",
                 }
             },
