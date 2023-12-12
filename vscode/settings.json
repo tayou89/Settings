@@ -45,6 +45,12 @@
                 }
             },
             {
+                "scope": "storage.modifier.specifier.functional.pre-parameters.virtual",
+                "settings":{
+                    "foreground": "#f799ffde",
+                }
+            },
+            {
                 "scope": "storage.modifier.virtual",
                 "settings":{
                     "foreground": "#f799ffde",
@@ -102,6 +108,12 @@
                 "scope": "constant.numeric",
                 "settings":{
                     "foreground": "#f89a27da",
+                }
+            },
+            {
+                "scope": "source.cpp",
+                "settings":{
+                    "foreground": "#b4b3b3",
                 }
             },
             {
