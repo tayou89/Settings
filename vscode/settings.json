@@ -105,6 +105,12 @@
                 }
             },
             {
+                "scope": "constant.language",
+                "settings": {
+                    "foreground": "#f89a27da",
+                }
+            },
+            {
                 "scope": "string",
                 "settings":{
                     "foreground": "#9fff98db",
