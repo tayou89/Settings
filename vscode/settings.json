@@ -39,6 +39,12 @@
                 }
             },
             {
+                "scope": "storage.modifier.specifier.functional.post-parameters.const",
+                "settings":{
+                    "foreground": "#f799ffde",
+                }
+            },
+            {
                 "scope": "keyword.operator.new",
                 "settings": {
                     "foreground": "#f799ffde",
