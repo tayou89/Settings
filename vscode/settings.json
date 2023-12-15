@@ -86,6 +86,12 @@
                     "foreground": "#f799ffde",
                 }
             },
+			{
+                "scope": "keyword.operator.typeid",
+                "settings": {
+                    "foreground": "#f799ffde",
+                }
+            },
             {
                 "scope": "keyword",
                 "settings": {
