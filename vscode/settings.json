@@ -196,6 +196,12 @@
                     "foreground": "#b4b3b3",
                 }
             },
+			{
+                "scope": "variable.other.enummember",
+                "settings":{
+                    "foreground": "#b4b3b3",
+                }
+            },
             {
                 "scope": "meta.function",
                 "settings":{
