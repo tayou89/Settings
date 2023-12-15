@@ -130,6 +130,12 @@
                     "foreground": "#f799ffde",
                 }
             },
+			{
+                "scope": "meta.preprocessor",
+                "settings": {
+                    "foreground": "#f799ffde",
+                }
+            },
             {
                 "scope": "constant.language",
                 "settings": {
