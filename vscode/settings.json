@@ -64,6 +64,12 @@
                     "foreground": "#f799ffde",
                 }
             },
+			{
+                "scope": "storage.modifier.const",
+                "settings":{
+                    "foreground": "#f799ffde",
+                }
+            },
             {
                 "scope": "keyword.operator.new",
                 "settings": {
