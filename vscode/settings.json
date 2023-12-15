@@ -82,6 +82,12 @@
                     "foreground": "#f799ffde",
                 }
             },
+			{
+                "scope": "keyword.operator.cast",
+                "settings": {
+                    "foreground": "#f799ffde",
+                }
+            },
             {
                 "scope": "keyword.operator.sizeof",
                 "settings": {
