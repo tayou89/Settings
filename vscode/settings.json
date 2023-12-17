@@ -227,6 +227,12 @@
                 }
             },
 
+                "scope": "comment",
+                "settings": {
+                    "foreground": "#b4b3b3a3",
+                }
+            },
+
 
 
             {
