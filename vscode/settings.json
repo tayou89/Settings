@@ -178,6 +178,12 @@
                     "foreground": "#b4b3b3",
                 }
             },
+			{
+                "scope": "entity.name.namespace",
+                "settings": {
+                    "foreground": "#b4b3b3",
+                }
+            },
             {
                 "scope": "entity.name.function",
                 "settings":{
@@ -204,6 +210,12 @@
             },
 			{
                 "scope": "variable.other.enummember",
+                "settings":{
+                    "foreground": "#b4b3b3",
+                }
+            },
+			{
+                "scope": "variable.other.local",
                 "settings":{
                     "foreground": "#b4b3b3",
                 }
