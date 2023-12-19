@@ -11,7 +11,7 @@
         "activityBar.background": "#000000",
 		"terminal.background": "#000000",
 		"panel.background": "#000000"
-    }
+    },
     "editor.tokenColorCustomizations": 
     {
         "textMateRules": 
@@ -66,6 +66,12 @@
             },
 			{
                 "scope": "storage.modifier.const",
+                "settings":{
+                    "foreground": "#f799ffde",
+                }
+            },
+            {
+                "scope": "storage.modifier.static",
                 "settings":{
                     "foreground": "#f799ffde",
                 }
