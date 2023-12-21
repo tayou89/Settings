@@ -256,6 +256,12 @@
                     "foreground": "#69e9ffb3",
                 }
             },
+            {
+                "scope": "keyword.other.unit.suffix.floating-point",
+                "settings":{
+                    "foreground": "#f89a27da",
+                }
+            },
 
 
 
