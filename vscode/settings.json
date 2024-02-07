@@ -362,8 +362,28 @@
                 "scope": "source.makefile",
                 "settings":{
                     "foreground": "#b4b3b3",
-            },
+            	},
             },  
+
+
+			{
+                "scope": "constant.language.module.http.core",
+                "settings":{
+                    "foreground": "#f799ffde",
+            	},
+            },
+			{
+                "scope": "constant.language.module.http.index",
+                "settings":{
+                    "foreground": "#9fff98db",
+            	},
+            },
+			{
+                "scope": "source.nginx",
+                "settings":{
+                    "foreground": "#b4b3b3",
+            	},
+            },
         ]
     },
     "editor.autoClosingBrackets": "never",
