@@ -409,6 +409,12 @@
 				},
 			},
 			{
+				"scope": "meta.property-list.css",
+				"settings": {
+					"foreground": "#b4b3b3",
+				},
+			},
+			{
 				"scope": "support.constant.color.w3c-standard-color-name.css",
 				"settings": {
 					"foreground": "#ff9a56d6",
