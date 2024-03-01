@@ -182,11 +182,13 @@
 			},
 			{
 				"scope": [
-					"entity.other.attribute-name",
-					"support.type.property-name"
+					"entity.other.attribute-name.html",
+					"support.type.property-name.html",
+					"entity.other.attribute-name.css",
+					"support.type.property-name.css"
 				],
 				"settings": {
-					"foreground": "#47c8d1e1",
+					"foreground": "#7AA6DA",
 				},
 			},
 			{
