@@ -202,7 +202,6 @@
 					"text.html.derivative",
 					"meta.property-list.css",
 					"punctuation.definition.tag",
-					"keyword.other.unit",
 				],
 				"settings": {
 					"foreground": "#b4b3b3",
@@ -212,6 +211,7 @@
 				"scope": [
 					"support.constant.color",
 					"support.constant.property-value.css",
+					"keyword.other.unit",
 				],
 				"settings": {
 					"foreground": "#ff9a56d6",
