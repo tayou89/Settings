@@ -174,7 +174,6 @@
 			{
 				"scope": [
 					"entity.name.tag.html",
-					"entity.name.tag.css",
 				],
 				"settings": {
 					"foreground": "#fb6a9de9",
@@ -185,7 +184,11 @@
 					"entity.other.attribute-name.html",
 					"support.type.property-name.html",
 					"entity.other.attribute-name.css",
-					"support.type.property-name.css"
+					"support.type.property-name.css",
+					"support.type.property-name.media.css",
+					"entity.other.attribute-name.class.css",
+					"entity.other.attribute-name.id.css",
+					"entity.name.tag.css",
 				],
 				"settings": {
 					"foreground": "#b4b3b3",
@@ -202,6 +205,9 @@
 					"text.html.derivative",
 					"meta.property-list.css",
 					"punctuation.definition.tag",
+					"punctuation.definition.parameters",
+					"punctuation.section.media",
+					"keyword.control.at-rule"
 				],
 				"settings": {
 					"foreground": "#b4b3b3",
