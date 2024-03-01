@@ -387,7 +387,7 @@
 			{
 				"scope": "entity.other.attribute-name",
 				"settings": {
-					"foreground": "#ff9a56d6",
+					"foreground": "#b4b3b3",
 				},
 			},
 			{
@@ -415,7 +415,19 @@
 				},
 			},
 			{
-				"scope": "support.constant.color.w3c-standard-color-name.css",
+				"scope": "punctuation.definition.tag",
+				"settings": {
+					"foreground": "#b4b3b3",
+				},
+			},
+			{
+				"scope": "support.constant.color",
+				"settings": {
+					"foreground": "#ff9a56d6",
+				},
+			},
+			{
+				"scope": "support.constant.property-value.css",
 				"settings": {
 					"foreground": "#ff9a56d6",
 				},
