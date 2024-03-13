@@ -4,7 +4,7 @@
 		"**/Users/tayou/Library/Caches/vscode-cpptools": true
 	},
 	"editor.mouseWheelZoom": true,
-	"window.zoomLevel": 2,
+	"window.zoomLevel": 1,
 	"workbench.editor.enablePreview": false,
 	"terminal.integrated.fontSize": 14,
 	"editor.cursorBlinking": "solid",
@@ -33,6 +33,11 @@
 		"statusBar.background": "#000000",
 		"statusBarItem.remoteBackground": "#000000",
 		"activityBar.background": "#000000",
+		"commandCenter.background": "#000000",
+		"tab.inactiveBackground": "#000000",
+		"tab.activeBackground": "#222222",
+		"editorGroupHeader.tabsBackground": "#000000",
+		"titleBar.activeBackground": "#000000",
 	},
 	"editor.tokenColorCustomizations": {
 		"textMateRules": [
@@ -256,4 +261,5 @@
 	},
 	"editor.fontSize": 13,
 	"editor.wordWrap": "on",
+	"workbench.colorTheme": "Visual Studio Dark",
 }
