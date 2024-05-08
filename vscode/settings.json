@@ -52,6 +52,7 @@
 					"keyword.operator.sizeof",
 					"keyword.operator.delete",
 					"keyword.control.directive",
+					"keyword.operator.expression",
 					"storage.type",
 					"storage.modifier.const",
 					"storage.modifier.static",
@@ -86,6 +87,8 @@
 					"meta.function",
 					"meta.body.class",
 					"keyword.operator",
+					"punctuation.definition.template-expression.begin",
+					"punctuation.definition.template-expression.end",
 				],
 				"settings": {
 					"foreground": "#b4b3b3",
@@ -194,6 +197,14 @@
 					"entity.other.attribute-name.class.css",
 					"entity.other.attribute-name.id.css",
 					"entity.name.tag.css",
+					"variable.other.readwrite.js",
+					"variable.other.constant.js",
+					"meta.brace.round.js",
+					"punctuation.definition.block.js",
+					"meta.object-literal.key.js",
+					"punctuation.separator.comma.js",
+					"punctuation.terminator.statement.js",
+					"punctuation.accessor.js",
 				],
 				"settings": {
 					"foreground": "#b4b3b3",
@@ -242,7 +253,7 @@
 	"editor.semanticHighlighting.enabled": false,
 	"[cpp]": {
 		"editor.semanticHighlighting.enabled": false,
-		"editor.defaultFormatter": "xaver.clang-format"
+		"editor.defaultFormatter": "ms-vscode.cpptools"
 	},
 	"[c]": {
 		"editor.semanticHighlighting.enabled": false
@@ -255,11 +266,13 @@
 	"editor.detectIndentation": false,
 	"editor.formatOnSave": true,
 	"C_Cpp.clang_format_style": "",
-	"clang-format.executable": "",
 	"[jsonc]": {
 		"editor.defaultFormatter": "vscode.json-language-features"
 	},
 	"editor.fontSize": 13,
-	"editor.wordWrap": "on",
 	"workbench.colorTheme": "Visual Studio Dark",
+	"clang-format.assumeFilename": ".clang-format",
+	"notebook.formatOnSave.enabled": true,
+	"clang-format.executable": "",
+	"editor.wordWrap": "on",
 }

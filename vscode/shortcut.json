@@ -64,11 +64,11 @@
 		"command": "-workbench.action.moveEditorToPreviousGroup"
 	},
 	{
-		"key": "alt+cmd+[",
+		"key": "alt+cmd+'",
 		"command": "workbench.action.terminal.moveToEditor"
 	},
 	{
-		"key": "alt+cmd+'",
+		"key": "alt+cmd+;",
 		"command": "workbench.action.terminal.moveToTerminalPanel"
 	},
 	{
@@ -86,5 +86,15 @@
 	{
 		"key": "alt+cmd+n",
 		"command": "explorer.newFolder"
+	},
+	{
+		"key": "ctrl+enter",
+		"command": "renameFile",
+		"when": "filesExplorerFocus && foldersViewVisible && !explorerResourceIsRoot && !explorerResourceReadonly && !inputFocus"
+	},
+	{
+		"key": "enter",
+		"command": "-renameFile",
+		"when": "filesExplorerFocus && foldersViewVisible && !explorerResourceIsRoot && !explorerResourceReadonly && !inputFocus"
 	}
 ]
