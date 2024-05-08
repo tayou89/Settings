@@ -86,6 +86,7 @@
 					"meta.block",
 					"meta.function",
 					"meta.body.class",
+					"meta.embedded",
 					"keyword.operator",
 					"punctuation.definition.template-expression.begin",
 					"punctuation.definition.template-expression.end",
